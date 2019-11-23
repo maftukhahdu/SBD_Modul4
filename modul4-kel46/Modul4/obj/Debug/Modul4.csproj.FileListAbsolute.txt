@@ -1,0 +1,57 @@
+C:\Users\ASUS\source\repos\Modul4\Modul4\bin\Debug\Modul4.exe.config
+C:\Users\ASUS\source\repos\Modul4\Modul4\bin\Debug\Modul4.exe
+C:\Users\ASUS\source\repos\Modul4\Modul4\bin\Debug\Modul4.pdb
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.Form1.resources
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.exe
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.pdb
+C:\Users\ASUS\source\repos\Modul4\Modul4\obj\Debug\Modul4.detail.resources
+C:\Users\Administrator\source\repos\Modul4\Modul4\bin\Debug\Modul4.exe.config
+C:\Users\Administrator\source\repos\Modul4\Modul4\bin\Debug\Modul4.exe
+C:\Users\Administrator\source\repos\Modul4\Modul4\bin\Debug\Modul4.pdb
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.detail.resources
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.Form1.resources
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.exe
+C:\Users\Administrator\source\repos\Modul4\Modul4\obj\Debug\Modul4.pdb
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\bin\Debug\Modul4.exe.config
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\bin\Debug\Modul4.exe
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\bin\Debug\Modul4.pdb
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.detail.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.Form1.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.Properties.Resources.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.csproj.GenerateResource.Cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.exe
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.pdb
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel7-master\Modul4\obj\Debug\Modul4.halaman_tambah.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\bin\Debug\Modul4.exe.config
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\bin\Debug\Modul4.exe
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\bin\Debug\Modul4.pdb
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.detail.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.Form1.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.halaman_tambah.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.Properties.Resources.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.csproj.GenerateResource.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.exe
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\modul4-kel46\Modul4\obj\Debug\Modul4.pdb
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\bin\Debug\Modul4.exe.config
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\bin\Debug\Modul4.exe
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\bin\Debug\Modul4.pdb
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.detail.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.Form1.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.halaman_tambah.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.Properties.Resources.resources
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.csproj.GenerateResource.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.exe
+D:\Mata Kuliah\SEM 5\Praktikum SBD\modul 4\fix\modul4-kel46\Modul4\obj\Debug\Modul4.pdb
